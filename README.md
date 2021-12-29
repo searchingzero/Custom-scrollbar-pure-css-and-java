@@ -1,4 +1,4 @@
-# Custom-scrollbar-pure-css-and-java
+# Custom-scrollbar-pure-css-and-javaScript
 **Custom-scrollbar** is a small and custom code for scrollbar . It provides you a ready to use code. Screenshort of this Custom-scrollbar template available
 
 # Preview
